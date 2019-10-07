@@ -52,10 +52,6 @@
 
             <div class="form-group">
                 <label for="jurusan">Jurusan</label>
-                <input type="text" class="form-control" id="jurusan" name="jurusan" placeholder="Masukkan jurusan">
-            </div>
-            <div class="form-group">
-                <label for="jurusan">Jurusan</label>
                 <select class="form-control" id="jurusan" name="jurusan">
                     <option value="Teknik Informatika">Teknik Informatika</option>
                     <option value="Teknik Mesin">Teknik Mesin</option>
